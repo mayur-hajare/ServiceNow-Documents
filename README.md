@@ -1,7 +1,3 @@
-Here's your provided content, professionally formatted for a `README.md` file on GitHub using proper Markdown syntax:
-
----
-
 # ServiceNow Documentation Repository
 
 Welcome to the **ServiceNow Documentation Repository**!
